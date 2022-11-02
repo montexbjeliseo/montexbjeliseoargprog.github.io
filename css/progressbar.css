@@ -1,7 +1,10 @@
+.container-fluid {
+  width: 90%;
+}
 .centered {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: center;
 }
 #progress {
   height: 150px;
@@ -10,7 +13,7 @@
   display: grid;
   place-items: center;
   z-index: 105;
-  margin: 40px 80px;
+  margin: 20px 40px;
 }
 #progress-value {
   display: block;
