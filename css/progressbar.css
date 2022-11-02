@@ -6,6 +6,11 @@
   align-items: center;
   justify-content: center;
 }
+
+.center {
+  text-align: center;
+}
+
 #progress {
   height: 150px;
   width: 150px;
